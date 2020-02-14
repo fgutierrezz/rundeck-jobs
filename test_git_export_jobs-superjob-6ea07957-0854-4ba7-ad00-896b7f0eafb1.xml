@@ -1,0 +1,18 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description>dsffdsfds</description>
+    <executionEnabled>true</executionEnabled>
+    <id>6ea07957-0854-4ba7-ad00-896b7f0eafb1</id>
+    <loglevel>INFO</loglevel>
+    <name>superjob</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <scheduleEnabled>true</scheduleEnabled>
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>date</exec>
+      </command>
+    </sequence>
+    <uuid>6ea07957-0854-4ba7-ad00-896b7f0eafb1</uuid>
+  </job>
+</joblist>
