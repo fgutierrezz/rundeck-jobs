@@ -3,7 +3,7 @@
     <defaultTab>nodes</defaultTab>
     <description></description>
     <executionEnabled>true</executionEnabled>
-    <group>Group2</group>
+    <group>GroupChanged</group>
     <id>d651e586-c92d-4d4a-ada5-c4217eb3c80e</id>
     <loglevel>INFO</loglevel>
     <name>job2</name>
