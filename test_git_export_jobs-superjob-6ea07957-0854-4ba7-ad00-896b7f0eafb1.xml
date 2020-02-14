@@ -15,6 +15,9 @@
       <command>
         <exec>date</exec>
       </command>
+      <command>
+        <exec>date</exec>
+      </command>
     </sequence>
     <uuid>6ea07957-0854-4ba7-ad00-896b7f0eafb1</uuid>
   </job>
