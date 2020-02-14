@@ -1,9 +1,9 @@
 <joblist>
   <job>
     <defaultTab>nodes</defaultTab>
-    <description>wwwasdffdsa</description>
+    <description>555555555</description>
     <executionEnabled>true</executionEnabled>
-    <id>fd2dc940-57bf-401a-b5b0-3e4c0a6a7597</id>
+    <id>da4bf046-1aa2-4746-b735-2f7b497d079e</id>
     <loglevel>INFO</loglevel>
     <name>job55</name>
     <nodeFilterEditable>false</nodeFilterEditable>
@@ -13,6 +13,6 @@
         <exec>date</exec>
       </command>
     </sequence>
-    <uuid>fd2dc940-57bf-401a-b5b0-3e4c0a6a7597</uuid>
+    <uuid>da4bf046-1aa2-4746-b735-2f7b497d079e</uuid>
   </job>
 </joblist>
