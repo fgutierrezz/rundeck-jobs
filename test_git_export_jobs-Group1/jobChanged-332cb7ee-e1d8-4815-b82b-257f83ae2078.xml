@@ -8,7 +8,7 @@ sdffds]]></description>
     <group>Group1</group>
     <id>332cb7ee-e1d8-4815-b82b-257f83ae2078</id>
     <loglevel>INFO</loglevel>
-    <name>job1</name>
+    <name>jobChanged</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <scheduleEnabled>true</scheduleEnabled>
     <sequence keepgoing='false' strategy='node-first'>
