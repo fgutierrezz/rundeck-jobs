@@ -1,7 +1,7 @@
 <joblist>
   <job>
     <defaultTab>nodes</defaultTab>
-    <description></description>
+    <description>www</description>
     <executionEnabled>true</executionEnabled>
     <id>fd2dc940-57bf-401a-b5b0-3e4c0a6a7597</id>
     <loglevel>INFO</loglevel>
