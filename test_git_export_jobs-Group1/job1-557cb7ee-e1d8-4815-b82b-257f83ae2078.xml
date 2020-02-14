@@ -1,0 +1,21 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description><![CDATA[555 
+111
+sdffds]]></description>
+    <executionEnabled>true</executionEnabled>
+    <group>Group1</group>
+    <id>557cb7ee-e1d8-4815-b82b-257f83ae2078</id>
+    <loglevel>INFO</loglevel>
+    <name>job1</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <scheduleEnabled>true</scheduleEnabled>
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>date</exec>
+      </command>
+    </sequence>
+    <uuid>557cb7ee-e1d8-4815-b82b-257f83ae2078</uuid>
+  </job>
+</joblist>
